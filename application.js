@@ -1,3 +1,4 @@
+//hi testing
 var myGame = function(){
     // User choice
     var userChoice = prompt("Type in your first guess here to begin:");
